@@ -6,12 +6,12 @@ A responsive Instagram-like social media interface built with HTML, CSS, and van
 
 ### 📚 Learning Version (main branch)
 My original implementation focusing on core functionality and layout challenges.
-- [View Original Code](https://github.com/Ayoubxpy/Oldagram/tree/main)
+- [View Original Code]([https://github.com/Ayoubxpy/Oldagram/tree/main](https://github.com/Ayoubxpy/Oldagram---Instagram-Clone))
 - [Live Demo - Original](your-demo-link)
 
 ### 🚀 Professional Version (improved-version branch)  
 Refactored with industry best practices and modern web standards.
-- [View Improved Code](https://github.com/Ayoubxpy/Oldagram/tree/improved-version)
+- [View Improved Code]([https://github.com/Ayoubxpy/Oldagram/tree/improved-version](https://github.com/Ayoubxpy/Oldagram---Instagram-Clone/tree/improved-version?tab=readme-ov-file))
 
 ## ✨ Features
 - Instagram-like post layout
