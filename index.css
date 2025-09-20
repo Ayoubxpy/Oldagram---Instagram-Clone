@@ -1,0 +1,79 @@
+body {
+    padding: 0;
+    margin: 0 auto;
+}
+
+
+header{
+    text-align: center;
+}
+
+.logo-img {
+    width: 100px;
+    margin-right: 100px;
+}
+
+.avatar-img{
+    width: 50px;
+    margin-left: 100px;
+    border-radius: 50%;
+}
+.post-container{
+     display: flex;
+     justify-content: center;
+     margin-right:  120px;
+     margin-top: 20px;
+}
+.vangogh-avatar{
+    width: 50px;
+    border-radius: 50%; 
+}
+.user-info{
+    display: flex;
+    flex-direction: column;
+}
+
+.name {
+    font-weight: bolder;
+    font-size: large;
+    margin-left: 10px;
+}
+.location{
+    font-weight: lighter;
+    margin-left: 10px;
+    
+}
+.post-img{
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+}
+
+.icons {
+    display: flex;
+    justify-content: center;
+    gap: 5px; 
+    margin-right: 200px;
+}
+
+.heart-icon,
+.comment-icon,
+.dm-icon{
+    width: 25px;
+}
+
+h3{
+    font-size: 15px;
+    text-align: center;
+    margin-right: 100px;
+}
+
+.comment-name {
+    font-size: 15px;
+    margin-left: 90px;
+}
+.comment{
+    font-weight: 100;
+}
+
